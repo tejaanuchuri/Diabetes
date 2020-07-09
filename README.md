@@ -1,7 +1,5 @@
 # diabetes-using-machine-learning
-Diabetes Prediction Project
-Implementation :
-Our implementation is mainly divided into seven steps:
+Implementation : Our implementation is mainly divided into seven steps:
 1. Exploring the Data:
 Exploring the Data using jupyter notebook and verify we need to data preprocessing or not.For this dataset there is no need to data preprocessing. Before split into train and test data check outcome balanced or in balance.whether it is in balanced then we used f1_score.
 2. Split into train and test: 
@@ -22,7 +20,7 @@ External Libraries used:
 * Matplotlib
 * Pandas
 Data:
-* Diabetes Dataset available from Kaggle here
-* Also included in directory of repository in original form https://www.kaggle.com/johndasilva/diabetes
+* Diabetes Dataset available from Kaggle here https://www.kaggle.com/johndasilva/diabetes
+* Also included in directory of repository in original form 
   
 
