@@ -1,4 +1,4 @@
-# diabetes
+# Diabetes
 Implementation : Our implementation is mainly divided into five steps:
 1. Exploring the Data:
 Exploring the Data using jupyter notebook and verify we need to data preprocessing or not.For this dataset there is no need to data preprocessing. Before split into train and test data check outcome balanced or in balance.whether it is in balanced then we used f1_score.
