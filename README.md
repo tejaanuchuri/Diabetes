@@ -14,13 +14,15 @@ same algorithm on a different set of parameters to find the one with the best f1
 5. Display results
 Here we will apply many supervised learning algorithms and decide which algorithm is best suited for our dataset. We can apply the grid search on some chosen algorithms to decide the best parameters among many.Finding gridsearchcv optimal f1_score changing parameters to get best optimal f1_score.gridsearchcv (parameters like n_estimator,max_depth..etc)
 to get best f1_score for this best classification model using gridsearchcv. I faced some more extra time taken to find best f1_score to change parameters to this diabetes machine learning project.
-External Libraries used:
-* SciKit Learn
-* Numpy
-* Matplotlib
-* Pandas
-Data:
-* Diabetes Dataset available from Kaggle here https://www.kaggle.com/johndasilva/diabetes
-* Also included in directory of repository in original form 
+
+
+* External Libraries used:
+1. SciKit Learn
+2.Numpy
+3.Matplotlib
+4.Pandas
+* Data:
+1.Diabetes Dataset available from Kaggle here https://www.kaggle.com/johndasilva/diabetes
+2.Also included in directory of repository in original form 
   
 
